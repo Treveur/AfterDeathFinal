@@ -1,0 +1,744 @@
+[ //Floor{Static-01 (120*70), Static-02 (120*140)}, Plateform{Static-03 (120*35), static-04 (120 * 70)}
+    //Premier ecran
+    {
+        "typePlateform": "static-02",
+        "x": -10,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": -10,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": -10,
+        "y": 724
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": -10,
+        "y": 580
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": -10,
+        "y": 436
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": -10,
+        "y": 282
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": -10,
+        "y": 148
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": -10,
+        "y": 40
+    },
+    //Floor
+    //10 * 2
+    {
+        "typePlateform": "static-02",
+        "x": 60,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 180,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 300,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 420,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 540,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 660,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 780,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 900,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 1020,
+        "y": 1010
+    },
+
+    //1 * (2+1)
+    {
+        "typePlateform": "static-01",
+        "x": 1140,
+        "y": 904
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 1140,
+        "y": 1010
+    },
+
+    //1 * 2
+    {
+        "typePlateform": "static-02",
+        "x": 1260,
+        "y": 1010
+    },
+
+
+
+    //2 * 1
+    {
+        "typePlateform": "static-01",
+        "x": 1380,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 1500,
+        "y": 1046
+    },
+
+    //2 * (2 + 1)
+    {
+        "typePlateform": "static-01",
+        "x": 1620,
+        "y": 907
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 1620,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 1740,
+        "y": 904
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 1740,
+        "y": 1010
+    },
+
+    //3 * (2 + 2)
+    {
+        "typePlateform": "static-02",
+        "x": 1860,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 1860,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 1860,
+        "y": 940
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 1860,
+        "y": 1010
+    },
+
+    //PlateForms
+    //2
+    {
+        "typePlateform": "static-03",
+        "x": 330,
+        "y": 312
+    },
+
+    {
+        "typePlateform": "static-03",
+        "x": 420,
+        "y": 312
+    },
+
+
+    //1
+    {
+        "typePlateform": "static-03",
+        "x": 614,
+        "y": 416
+    },
+
+    //3
+    {
+        "typePlateform": "static-02",
+        "x": 780,
+        "y": 544
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 900,
+        "y": 544
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 1020,
+        "y": 560
+    },
+
+    //1
+    {
+        "typePlateform": "static-03",
+        "x": 1260,
+        "y": 600
+    },
+
+    //2
+    {
+        "typePlateform": "static-03",
+        "x": 1500,
+        "y": 704
+    },
+
+    {
+        "typePlateform": "static-03",
+        "x": 1620,
+        "y": 704
+    },
+
+    //Deuxieme ecran
+
+    //Floor
+
+    //1 * 2
+    {
+        "typePlateform": "static-02",
+        "x": 1980,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 1980,
+        "y": 1010
+    },
+
+    //2 * (1+2)
+
+    {
+        "typePlateform": "static-01",
+        "x": 2100,
+        "y": 904
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 2100,
+        "y": 1010
+    },
+
+    
+    {
+        "typePlateform": "static-01",
+        "x": 2220,
+        "y": 904
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 2220,
+        "y": 1010
+    },
+
+    //1 * 2
+    {
+        "typePlateform": "static-02",
+        "x": 2340,
+        "y": 1010
+    },
+
+    //1 * ( 2 + 2 + 1)
+    /*{
+        "typePlateform": "static-01",
+        "x": 2460,
+        "y": 760
+    },*/
+
+    {
+        "typePlateform": "static-02",
+        "x": 2460,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 2460,
+        "y": 1010
+    },
+
+    //1 * (1 + 2 + 2 +2)
+    {
+        "typePlateform": "static-01",
+        "x": 2580,
+        "y": 616
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 2580,
+        "y": 724
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 2580,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 2580,
+        "y": 1010
+    },
+
+    //1 * (1 + 2)
+    {
+        "typePlateform": "static-01",
+        "x": 2700,
+        "y": 616
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 2700,
+        "y": 1010
+    },
+
+    //1 * (1 + 1 + 2 )
+    {
+        "typePlateform": "static-01",
+        "x": 2820,
+        "y": 544
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 2820,
+        "y": 832
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 2820,
+        "y": 1010
+    },
+
+    //1 * (1 + 2)
+    {
+        "typePlateform": "static-01",
+        "x": 2940,
+        "y": 544
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 2940,
+        "y": 1010
+    },
+
+    //1 * (1 + 1 + 2)
+    {
+        "typePlateform": "static-01",
+        "x": 3060,
+        "y": 544
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 3060,
+        "y": 904
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 3060,
+        "y": 1010
+    },
+ 
+    //1 * ( 1 + 1 + 1 + 2)
+    {
+        "typePlateform": "static-01",
+        "x": 3180,
+        "y": 544
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 3180,
+        "y": 760
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 3180,
+        "y": 904
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 3180,
+        "y": 1010
+    },
+
+    //1 * (1 + 2)
+    {
+        "typePlateform": "static-01",
+        "x": 3300,
+        "y": 760
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 3300,
+        "y": 1010
+    },
+
+    //3 * 1
+    {
+        "typePlateform": "static-01",
+        "x": 3420,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 3540,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 3660,
+        "y": 1046
+    },
+
+    //3 * 2
+    {
+        "typePlateform": "static-02",
+        "x": 3780,
+        "y": 724
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 3780,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 3780,
+        "y": 1010
+    },
+
+    //PlateForm
+    {
+        "typePlateform": "static-03",
+        "x": 2280,
+        "y": 685
+    },
+
+    {
+        "typePlateform": "static-03",
+        "x": 3660,
+        "y": 490
+    },
+
+    //3e ecran
+
+    //Floor
+    //2 * ( 1 + 2 + 2 + 2)
+    {
+        "typePlateform": "static-01",
+        "x": 3898,
+        "y": 616
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 3898,
+        "y": 724
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 3898,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 3898,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 4020,
+        "y": 616
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 4020,
+        "y": 724
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 4020,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 4020,
+        "y": 1010
+    },
+
+    //5 * 1
+    {
+        "typePlateform": "static-01",
+        "x": 4140,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 4260,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 4380,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 4500,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 4620,
+        "y": 1046
+    },
+
+    //1 * 2
+    {
+        "typePlateform": "static-02",
+        "x": 4740,
+        "y": 1010
+    },
+
+    //6 * 1
+    {
+        "typePlateform": "static-01",
+        "x": 4860,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 4980,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 5100,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 5220,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 5340,
+        "y": 1046
+    },
+
+    {
+        "typePlateform": "static-01",
+        "x": 5560,
+        "y": 1046
+    },
+
+    //2 * ( 1 + 2 + 2)
+    {
+        "typePlateform": "static-01",
+        "x": 5580,
+        "y": 760
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5580,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5580,
+        "y": 1010
+    },
+
+    //Plateforms
+
+    //
+    {
+        "typePlateform": "static-03",
+        "x": 4260,
+        "y": 528
+    },
+
+    {
+        "typePlateform": "static-03",
+        "x": 4260,
+        "y": 675
+    },
+
+    //
+    {
+        "typePlateform": "static-03",
+        "x": 4380,
+        "y": 776
+    },
+
+    //
+    {
+        "typePlateform": "static-03",
+        "x": 4500,
+        "y": 888
+    },
+
+    //
+    {
+        "typePlateform": "static-03",
+        "x": 4620,
+        "y": 488
+    },
+
+    //
+    {
+        "typePlateform": "static-03",
+        "x": 4980,
+        "y": 528
+    },
+
+    //
+    {
+        "typePlateform": "static-03",
+        "x": 5220,
+        "y": 632
+    },
+
+    //Wall
+    {
+        "typePlateform": "static-02",
+        "x": 5820,
+        "y": 1010
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5820,
+        "y": 868
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5820,
+        "y": 724
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5820,
+        "y": 580
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5820,
+        "y": 436
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5820,
+        "y": 282
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5820,
+        "y": 148
+    },
+
+    {
+        "typePlateform": "static-02",
+        "x": 5820,
+        "y": 40
+    }
+]
